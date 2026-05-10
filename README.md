@@ -11,7 +11,8 @@ Python subject certificates and completion proofs
 ## Uploaded Images
 
 ### 1. CodeTantra Completion
-![CodeTantra] [lab dashboard completion]
+![CodeTantra] 
+https://1drv.ms/b/c/029ac8962878443f/IQCzW1hEYMMPSLdDWJy2YsOmAb8pQReeWD_Fz2uQswmE3KY?e=cOMSpu
 ### 2. Python Course Certificate
 ![Python1][Python_Essentials_1_certificate.jpg]
 https://1drv.ms/b/c/029ac8962878443f/IQBxv9uWYuscT5CmV2rkHv0UAWudGm7z8vdzk0_Kc5llNy0?e=aI4RRC
