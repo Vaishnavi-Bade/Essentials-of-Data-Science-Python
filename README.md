@@ -11,13 +11,13 @@ Python subject certificates and completion proofs
 ## Uploaded Images
 
 ### 1. CodeTantra Completion
-![CodeTantra](codetantra_completion.jpg)
+![CodeTantra] [EDS VIDEO PRESENTATION]
+### 2. Python Course Certificate
+![Python1][Python_Essentials_1_certificate.jpg]
+https://1drv.ms/b/c/029ac8962878443f/IQBxv9uWYuscT5CmV2rkHv0UAWudGm7z8vdzk0_Kc5llNy0?e=aI4RRC
+![Python2][Python_Essentials_2_certificate.jpg]
+https://1drv.ms/b/c/029ac8962878443f/IQC39Dfjk1XRTZ01hh6tApU2Af4mLJZ05LVe1svyf_kbkws?e=Nj7erO
 
-### 2. Cisco Certificate
-![Cisco](cisco_certificate.jpg)
-
-### 3. Python Course Certificate
-![Python](python_course.jpg)
 
 ---
 
