@@ -13,9 +13,11 @@ Python subject certificates and completion proofs
 ### 1. CodeTantra Completion
 ![CodeTantra] 
 https://1drv.ms/b/c/029ac8962878443f/IQCzW1hEYMMPSLdDWJy2YsOmAb8pQReeWD_Fz2uQswmE3KY?e=cOMSpu
+
 ### 2. Python Course Certificate
 ![Python1][Python_Essentials_1_certificate.jpg]
 https://1drv.ms/b/c/029ac8962878443f/IQBxv9uWYuscT5CmV2rkHv0UAWudGm7z8vdzk0_Kc5llNy0?e=aI4RRC
+
 ![Python2][Python_Essentials_2_certificate.jpg]
 https://1drv.ms/b/c/029ac8962878443f/IQC39Dfjk1XRTZ01hh6tApU2Af4mLJZ05LVe1svyf_kbkws?e=Nj7erO
 
@@ -25,6 +27,7 @@ https://1drv.ms/b/c/029ac8962878443f/IQC39Dfjk1XRTZ01hh6tApU2Af4mLJZ05LVe1svyf_k
 ## Video Link
 PRESKILET:
 https://preskilet.com/watch?v=69ffd00bbeead50022e36727
+
 YOUTUBE:
 https://youtu.be/dg1HMjmVsJI?si=eHp1Rgg9iTZQr9Xz
 
